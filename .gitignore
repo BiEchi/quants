@@ -1,2 +1,2 @@
-./mlruns
-./ipynb_checkpoints
+mlruns/
+ipynb_checkpoints/
