@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haob2/quants/mlruns/2/a2937a3cae784c05a2e4584f2eab3023/artifacts
+end_time: 1671876039663
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a2937a3cae784c05a2e4584f2eab3023
+run_name: mlflow_recorder
+run_uuid: a2937a3cae784c05a2e4584f2eab3023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671876008020
+status: 3
+tags: []
+user_id: haob2
